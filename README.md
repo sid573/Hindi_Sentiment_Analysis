@@ -5,7 +5,8 @@ This project is divided into 2 parts:
 * Classifier for Sentiment Classification
 
 ## To Run the model
-Just follow run_sentiment.ipynb
+* DOWNLOAD [models](https://drive.google.com/open?id=11-LwVRnFxzKKO6446ge9I4vPbUHvihwG)
+* Just follow run_sentiment.ipynb
 
 ## To Update model
 1. Follow the steps shown in Copy_Hindi notebook
