@@ -9,7 +9,7 @@ Just follow run_sentiment.ipynb
 
 ## To Update model
 1. Follow the steps shown in Copy_Hindi notebook
-2. In `Table = data.copy ....`  specifify the number of rows you want to copy if number of row is greater than the actuall rows     then rows are repeated in such case you can get wrong accuracy as inn validation set traning row is also present.  
+2. In `Table = data.copy ....`  specifify the number of rows you want to copy if number of row is greater than the actual rows     then rows are repeated in such case you can get wrong accuracy as in validation set traning row is also present.  
 3. The name with which you save classification model must be renamed to export.pkl
 4. You are ready to go :)
 
